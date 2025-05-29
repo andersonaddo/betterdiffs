@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 description: What BetterDiffs does with your data (TDLR - pretty much nothing)
+draft: false
 ---
 
 *TLDR: I don't collect or store your Github repo source code. I use GCP for processing and PostHog for analytics. Contact me for any concerns, or make a Github issue.*
