@@ -22,7 +22,7 @@ copyright = ""
 
 [params.logo]
     logoText = "BetterDiffs"
-    logoHomeLink = "/"
+    logoHomeLink = "/betterdiffs"
 
 [menu]
     [[menu.main]]
