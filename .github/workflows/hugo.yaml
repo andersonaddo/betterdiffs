@@ -56,11 +56,9 @@ jobs:
           restore-keys: hugo-
       - name: Configure Git
         run: git config core.quotepath false
-      - name: Go to /website
-        run: cd website
       - name: Build with Hugo
         run: |
-          hugo \
+          cd website hugo \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
