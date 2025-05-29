@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-url: privacy-policy
 description: What BetterDiffs does with your data (TDLR - pretty much nothing)
 ---
 
