@@ -1,10 +1,12 @@
 baseURL = "https://andersonaddo.github.io/betterdiffs"
 languageCode = 'en-us'
-theme = 'terminal'
+theme = 're-terminal'
 title = "BetterDiffs"
 keywords = ""
 copyright = ""
 canonifyURLs = true
+relativeURLs = true
+
 
 [caches]
   [caches.images]

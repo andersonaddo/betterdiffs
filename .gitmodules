@@ -1,3 +1,9 @@
 [submodule "website/themes/terminal"]
 path = website/themes/terminal
 url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "website/themes/PaperMod"]
+	path = website/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "website/themes/re-terminal"]
+	path = website/themes/re-terminal
+	url = https://github.com/mirus-ua/hugo-theme-re-terminal.git
