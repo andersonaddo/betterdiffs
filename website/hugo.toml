@@ -4,6 +4,7 @@ theme = 'terminal'
 title = "BetterDiffs"
 keywords = ""
 copyright = ""
+canonifyURLs = true
 
 [caches]
   [caches.images]
@@ -22,7 +23,7 @@ copyright = ""
 
 [params.logo]
     logoText = "BetterDiffs"
-    logoHomeLink = "/betterdiffs"
+    logoHomeLink = "/"
 
 [menu]
     [[menu.main]]
