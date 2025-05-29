@@ -52,10 +52,11 @@ jobs:
           path: |
             ${{ runner.temp }}/hugo_cache
           key: hugo-${{ github.run_id }}
-          restore-keys:
-            hugo-
+          restore-keys: hugo-
       - name: Configure Git
         run: git config core.quotepath false
+      - name: Go to /website
+        run: cd website
       - name: Build with Hugo
         run: |
           hugo \
