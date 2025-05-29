@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://andersonaddo.github.io/betterdiffs/"
 languageCode = 'en-us'
 theme = 'terminal'
 title = "BetterDiffs"
